@@ -39,7 +39,6 @@ function factorial(n) {
 
 console.log(factorial(5)); // 120
 ```
-(https://www.bing.com/images/search?view=detailV2&ccid=GEp2gd%2FH&id=3DA2D815DFE40932945E1B28C611A6F5B3C30718&thid=OIP.GEp2gd_Hrgk0HtqvyXnajwHaHa&mediaurl=https%3A%2F%2Ficon-library.com%2Fimages%2Fjavascript-icon-png%2Fjavascript-icon-png-24.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.184a7681dfc7ae09341edaafc979da8f%3Frik%3DGAfDs%252fWmEcYoGw%26pid%3DImgRaw%26r%3D0&exph=512&expw=512&q=%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB+%D0%B2+js+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&simid=607994501959086065&FORM=IRPRST&ck=787CC4F1D5B4EF5EE037588E38D5C086&selectedIndex=98&itb=1&cw=1375&ch=664&ajaxhist=0&ajaxserp=0)
 
 
 ### 2. Числа Фибоначчи
